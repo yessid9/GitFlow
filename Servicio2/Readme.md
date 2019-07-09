@@ -2,4 +2,6 @@
 
 ## Aqui va lo que hace el proyecto en general
 
-# ft2 1
+### feature 2 v1
+
+### featture 4 v2
