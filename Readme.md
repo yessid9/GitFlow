@@ -1,5 +1,5 @@
 # Documentacion base 
-#### v1.1
+#### v2.0
 
 ## Aqui va lo que hace el proyecto en general
 
